@@ -7,6 +7,12 @@ OR
 npx create-react-app moooo
 Note: npx comes with npm 5.2+.
 
+npm install redux
+npm install react-redux
+npm install redux-logger
+npm install redux-thunk
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 
 ## Available Scripts
 
