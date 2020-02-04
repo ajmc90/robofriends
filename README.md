@@ -14,6 +14,19 @@ npm install redux-thunk
 
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 
+### Other libs
+- React Router.
+- Ramda.
+- Lodash.
+- Styling: Glamorus, Styled components and css modules.
+- Gatsby: Statics website in react.
+- Next.js: Server site.
+- Material Ui.
+- Semantic Ui.
+- Reselect.
+- Redux Saga: Async data, Like redux thunk.
+- Inmutablejs.
+
 ## Available Scripts
 
 In the project directory, you can run:
