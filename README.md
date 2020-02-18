@@ -14,6 +14,10 @@ npm install redux-thunk
 
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es
+
+https://github.com/maicki/why-did-you-update
+
 ### Other libs
 - React Router.
 - Ramda.
