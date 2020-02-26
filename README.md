@@ -18,6 +18,8 @@ https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopl
 
 https://github.com/maicki/why-did-you-update
 
+https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=es
+
 ### Other libs
 - React Router.
 - Ramda.
