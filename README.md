@@ -12,15 +12,37 @@ npm install react-redux
 npm install redux-logger
 npm install redux-thunk
 
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+# Plugings
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en <br />
 
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es <br />
 
-https://github.com/maicki/why-did-you-update
+https://github.com/maicki/why-did-you-update <br />
 
-https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=es
+https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk/related?hl=es <br />
 
-https://letsencrypt.org/
+# HTTPS
+https://letsencrypt.org/ <br />
+
+# Server
+https://www.cloudflare.com/ <br />
+
+# Github pages
+https://pages.github.com/ <br />
+npm install gh-pages <br />
+on package.json => scripts: add "predeploy": "npm run build" <br />
+on package.json => scripts: add "deploy": "gh-pages -d build" <br />
+on package.json => add "homepage": "https://ajmc90.github.io/robofriends" <br />
+npm run build <br />
+
+# Icon generator
+https://realfavicongenerator.net/ <br />
+
+# Workers
+https://github.com/jeffposnick/create-react-pwa/compare/starting-point...pwa <br />
+
+# Push Notifications
+https://auth0.com/blog/introduction-to-progressive-web-apps-push-notifications-part-3/ <br />
 
 ### Other libs
 - React Router.
