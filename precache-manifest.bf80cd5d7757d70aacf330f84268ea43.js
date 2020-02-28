@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e492ac60cc629c12adca35f0648c054",
+    "revision": "2285f2deda0abc63bfc54d443713873f",
     "url": "/robofriends/index.html"
   },
   {
